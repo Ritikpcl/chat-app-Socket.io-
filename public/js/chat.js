@@ -1,4 +1,4 @@
-const socket = io('https://chat-app-socket-io-theta.vercel.app')
+const socket = io('https://chat-app-socket-3q5t58wgx-ritikpcl.vercel.app')
 
 // Elements
 const $messageForm = document.querySelector('#message-form')
